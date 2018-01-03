@@ -15,15 +15,15 @@
 <link rel="stylesheet" href="jslib/jquery-easyui-1.3.1/themes/icon.css" type="text/css"></link>
 <script type="text/javascript" src="jslib/myUtil.js"></script>
 
-<style type="text/css">
-	#myul ul {
-		list-style:none;
-	}
-	#myul ul li {
-		margin-left:-20px;
-		line-height:20px;
-	}
-</style>
+	<style type="text/css">
+		#myul ul {
+			list-style:none;
+		}
+		#myul ul li {
+			margin-left:-20px;
+			line-height:20px;
+		}
+	</style>
 
 </head>
 <body class="easyui-layout">
